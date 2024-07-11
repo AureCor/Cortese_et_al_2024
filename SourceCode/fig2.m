@@ -73,9 +73,6 @@ ax = gca;
 set(ax, 'ylim', [-.25 .25], 'ytick', -.3:.1:.3, 'xtick', 1:3, 'xticklabels', session);
 ax.YLabel.String = '\DeltaSCR [mean(cs+) - cs-]'; 
 
-% save figure
-% saveas(fh,'./figures/fig2a','svg')
-% print(fh, '-dpng', './figures/fig2a.png','-r600')
 
 
 %% fig 2b
@@ -156,7 +153,3 @@ legend(b, {'S-cs+' 'E-cs+'}, 'box', 'off', 'location', 'southwest');
 ax = gca;
 set(ax, 'ylim', [-.25 .28], 'ytick', -.3:.1:.3, 'xtick', 1:3, 'xticklabels', session);
 ax.YLabel.String = '\DeltaSCR (csX - cs-)';
-
-% save figure
-% saveas(fh,'./figures/fig2b','svg')
-% print(fh, '-dpng', './figures/fig2b.png','-r600')

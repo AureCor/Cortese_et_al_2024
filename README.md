@@ -1,14 +1,9 @@
 # Cortese_et_al_2024
 
 
-This repo contains the data and code required to reproduce the main figures presented in Cortese et al., 2024. "Time-dependent neural arbitration between cue associative and episodic fear memories". Available at 
+This repo contains the data and code required to reproduce the main figures presented in Cortese et al., 2024. "Time-dependent neural arbitration between cue associative and episodic fear memories". 
 
 Summarised data and code to reproduce the main figures are available in the folder 'Figures'
-
-Peprocessed fMRI data and code for decoding analyses are available in the folder 'decoding'
-
-The stimuli, code and a sample task file are contained in the folder 'TASK'
-
 
 The SLR toolbox (Yamashita et al. 2008, Miyawaki et al. 2008) was used for building machine learning decoders of fMRI data. The toolbox is available at https://bicr.atr.jp/~oyamashi/SLR_WEB.html
 

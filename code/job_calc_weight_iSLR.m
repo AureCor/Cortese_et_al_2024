@@ -38,7 +38,7 @@ nLearn = 50;
 % specify the maximum number of SLR.
 Nslr = 10;
 Ncv  = 20;
-trte = 0.8; % train - test split (75% train, 25% test)
+trte = 0.8; % train - test split
 
 % parameters
 driftRejection  = 1;

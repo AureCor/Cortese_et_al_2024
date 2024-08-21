@@ -8,7 +8,7 @@ The SLR toolbox (Yamashita et al. 2008, Miyawaki et al. 2008) was used for build
 
 References:
 
-Cortese A, Ohata R, Alemany M, Kitagawa N, Imamizu H, Koizumi A. (2023) “Time-Dependent Neural Arbitration between Cue Associative and Episodic Fear Memories.” Nature Communications
+Cortese A, Ohata R, Alemany M, Kitagawa N, Imamizu H, Koizumi A. (2023) “Time-Dependent Neural Arbitration between Cue Associative and Episodic Fear Memories.” bioRxiv
 
 Yamashita O, Sato MA, Yoshioka T, Tong F, Kamitani Y. (2008) "Sparse estimation automatically selects voxels relevant for the decoding of fMRI activity patterns." Neuroimage, Oct 1;42(4):1414-29
 
